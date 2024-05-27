@@ -1,0 +1,314 @@
+fileFormatVersion: 2
+guid: b5cf18db58bd37044888b8c325fcc1a3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Administrator_20200715_1452:SHENGCHAN:Box005
+    100002: Administrator_20200715_1452:SHENGCHAN:Cylinder031
+    100004: Administrator_20200715_1452:SHENGCHAN:Cylinder033
+    100006: Administrator_20200715_1452:SHENGCHAN:NONE-DC_Shell
+    100008: Administrator_20200715_1452:SHENGCHAN:Object045
+    100010: //RootNode
+    100012: BOLIII
+    100014: BOLIMEN
+    100016: BOLIMEN1
+    100018: DAXIANGZI
+    100020: dianxiang
+    100022: JIAZIA
+    100024: polySurface274
+    100026: polySurface284
+    100028: polySurface453
+    100030: polySurface454
+    100032: polySurface645
+    100034: polySurface646
+    100036: polySurface647
+    100038: polySurface648
+    100040: XIANGNEI
+    100042: A
+    100044: A 1
+    100046: B
+    100048: B 1
+    100050: B 2
+    100052: BIAOQIAN
+    100054: C
+    100056: C 1
+    100058: CC
+    100060: CC1
+    100062: CC3
+    100064: CCC
+    100066: G
+    100068: X
+    100070: Z
+    400000: Administrator_20200715_1452:SHENGCHAN:Box005
+    400002: Administrator_20200715_1452:SHENGCHAN:Cylinder031
+    400004: Administrator_20200715_1452:SHENGCHAN:Cylinder033
+    400006: Administrator_20200715_1452:SHENGCHAN:NONE-DC_Shell
+    400008: Administrator_20200715_1452:SHENGCHAN:Object045
+    400010: //RootNode
+    400012: BOLIII
+    400014: BOLIMEN
+    400016: BOLIMEN1
+    400018: DAXIANGZI
+    400020: dianxiang
+    400022: JIAZIA
+    400024: polySurface274
+    400026: polySurface284
+    400028: polySurface453
+    400030: polySurface454
+    400032: polySurface645
+    400034: polySurface646
+    400036: polySurface647
+    400038: polySurface648
+    400040: XIANGNEI
+    400042: A
+    400044: A 1
+    400046: B
+    400048: B 1
+    400050: B 2
+    400052: BIAOQIAN
+    400054: C
+    400056: C 1
+    400058: CC
+    400060: CC1
+    400062: CC3
+    400064: CCC
+    400066: G
+    400068: X
+    400070: Z
+    2100000: BAIBOLI
+    2100002: LANSE
+    2100004: TIEPI
+    2100006: HEIPI
+    2100008: BAIZHI
+    2100010: BIAO2
+    2100012: ZHONGSE2
+    2100014: JINSHU
+    2100016: BIAO6
+    2100018: BIAO
+    2100020: BIAO5
+    2100022: BIAO3
+    2300000: Administrator_20200715_1452:SHENGCHAN:Box005
+    2300002: Administrator_20200715_1452:SHENGCHAN:Cylinder031
+    2300004: Administrator_20200715_1452:SHENGCHAN:Cylinder033
+    2300006: Administrator_20200715_1452:SHENGCHAN:NONE-DC_Shell
+    2300008: Administrator_20200715_1452:SHENGCHAN:Object045
+    2300010: BOLIII
+    2300012: JIAZIA
+    2300014: polySurface274
+    2300016: polySurface284
+    2300018: polySurface453
+    2300020: polySurface454
+    2300022: polySurface645
+    2300024: polySurface646
+    2300026: polySurface647
+    2300028: polySurface648
+    2300030: A 1
+    2300032: B 1
+    2300034: B 2
+    2300036: C 1
+    2300038: CC
+    2300040: CC1
+    2300042: CC3
+    2300044: CCC
+    2300046: G
+    2300048: X
+    2300050: Z
+    3300000: Administrator_20200715_1452:SHENGCHAN:Box005
+    3300002: Administrator_20200715_1452:SHENGCHAN:Cylinder031
+    3300004: Administrator_20200715_1452:SHENGCHAN:Cylinder033
+    3300006: Administrator_20200715_1452:SHENGCHAN:NONE-DC_Shell
+    3300008: Administrator_20200715_1452:SHENGCHAN:Object045
+    3300010: BOLIII
+    3300012: JIAZIA
+    3300014: polySurface274
+    3300016: polySurface284
+    3300018: polySurface453
+    3300020: polySurface454
+    3300022: polySurface645
+    3300024: polySurface646
+    3300026: polySurface647
+    3300028: polySurface648
+    3300030: A 1
+    3300032: B 1
+    3300034: B 2
+    3300036: C 1
+    3300038: CC
+    3300040: CC1
+    3300042: CC3
+    3300044: CCC
+    3300046: G
+    3300048: X
+    3300050: Z
+    4300000: BOLIII
+    4300002: JIAZIA
+    4300004: Administrator_20200715_1452:SHENGCHAN:Box005
+    4300006: Administrator_20200715_1452:SHENGCHAN:Object045
+    4300008: Administrator_20200715_1452:SHENGCHAN:Cylinder031
+    4300010: Administrator_20200715_1452:SHENGCHAN:Cylinder033
+    4300012: polySurface284
+    4300014: polySurface453
+    4300016: polySurface454
+    4300018: polySurface647
+    4300020: polySurface648
+    4300022: polySurface645
+    4300024: polySurface646
+    4300026: Administrator_20200715_1452:SHENGCHAN:NONE-DC_Shell
+    4300028: polySurface274
+    4300030: A
+    4300032: B
+    4300034: B
+    4300036: C
+    4300038: G
+    4300040: Z
+    4300042: X
+    4300044: CC
+    4300046: CC1
+    4300048: CC3
+    4300050: CCC
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BAIBOLI
+    second: {fileID: 2100000, guid: 882e5277e6badac46b453d9bfac16ba3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BAIZHI
+    second: {fileID: 2100000, guid: 03bc73aaed592984089ba482d159ab6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BIAO
+    second: {fileID: 2100000, guid: 07601a8879672564bb95f634c3241b36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BIAO2
+    second: {fileID: 2100000, guid: 7564dd1769f9d0848bdc6bb3c82d9501, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BIAO3
+    second: {fileID: 2100000, guid: 2b6793b7fac44a74389210f87db2d1f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BIAO5
+    second: {fileID: 2100000, guid: 7d12b8be92c6c6f468ed926b939393c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BIAO6
+    second: {fileID: 2100000, guid: d617c0af3feae684c8f62295e19775a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HEIPI
+    second: {fileID: 2100000, guid: b7f9a816bb6666848b36aedd5e33bcd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JINSHU
+    second: {fileID: 2100000, guid: 48e2808d201c87342a27b2b5546c8981, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LANSE
+    second: {fileID: 2100000, guid: fa82657bb7ec8bf459f12e8d891a83ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TIEPI
+    second: {fileID: 2100000, guid: b6536d323848c3648b06eaf7529fca51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ZHONGSE2
+    second: {fileID: 2100000, guid: 23154a512a2e27b44b69ef5c15a2ccd9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

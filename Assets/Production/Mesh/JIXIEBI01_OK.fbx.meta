@@ -1,0 +1,2048 @@
+fileFormatVersion: 2
+guid: 1211e6597aae18642950ba60f023ba67
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: A
+    100002: A 1
+    100004: A 2
+    100006: A 3
+    100008: A10
+    100010: A11
+    100012: A12
+    100014: A14
+    100016: A15
+    100018: A16
+    100020: A16 1
+    100022: A17
+    100024: A17 1
+    100026: A18
+    100028: A19
+    100030: A2
+    100032: A2 1
+    100034: A3
+    100036: A3 1
+    100038: A4
+    100040: A4 1
+    100042: A5
+    100044: A5 1
+    100046: A6
+    100048: A6 1
+    100050: A8
+    100052: ABC
+    100054: ABC1
+    100056: bb
+    100058: bb 1
+    100060: ce
+    100062: ce 1
+    100064: cheng
+    100066: cheng 1
+    100068: CHENGJIA
+    100070: CHENGJIA1
+    100072: CHI
+    100074: CHI 1
+    100076: CHI 2
+    100078: CHI 3
+    100080: CHIZI
+    100082: CHIZI 1
+    100084: CHIZI 2
+    100086: CHIZI 3
+    100088: CHIZI1
+    100090: CHIZI1 1
+    100092: CHIZI_
+    100094: CHIZI_ 1
+    100096: D
+    100098: D 1
+    100100: D 2
+    100102: D 3
+    100104: D 4
+    100106: D 5
+    100108: D 6
+    100110: D 7
+    100112: D 8
+    100114: D 9
+    100116: D1
+    100118: D1 1
+    100120: D1 2
+    100122: D1 3
+    100124: D2
+    100126: D3
+    100128: DASHOU_OK
+    100130: DASHOU_OK 1
+    100132: dd
+    100134: dd 1
+    100136: dd 2
+    100138: dd 3
+    100140: deng
+    100142: deng 1
+    100144: DIANHAN1
+    100146: DIANHAN1 1
+    100148: DIANHAN_
+    100150: DIANHAN_ 1
+    100152: DIDAO
+    100154: dipan2
+    100156: dipan2 1
+    100158: dipan3
+    100160: dipan3 1
+    100162: DIZUO
+    100164: DIZUO 1
+    100166: DW
+    100168: DW 1
+    100170: dz
+    100172: dz 1
+    100174: E
+    100176: E1
+    100178: E2
+    100180: ER
+    100182: ER 1
+    100184: F
+    100186: F 1
+    100188: F 2
+    100190: F 3
+    100192: F 4
+    100194: F 5
+    100196: FD
+    100198: FD 1
+    100200: ff
+    100202: ff 1
+    100204: ff 2
+    100206: ff 3
+    100208: ffgg
+    100210: ffgg 1
+    100212: G
+    100214: g
+    100216: G 1
+    100218: g 1
+    100220: g1
+    100222: g1 1
+    100224: g2
+    100226: g2 1
+    100228: GAIZI
+    100230: GAIZI 1
+    100232: GAIZI 2
+    100234: GAIZI 3
+    100236: GAIZI 4
+    100238: GAIZI 5
+    100240: GAIZI2
+    100242: GAIZI2 1
+    100244: GAIZI3
+    100246: GAIZI3 1
+    100248: GAIZI4
+    100250: GAIZI4 1
+    100252: GAIZI_C
+    100254: GAIZI_C1
+    100256: GAIZI_D
+    100258: GAIZI_D 1
+    100260: GAIZI_OK
+    100262: GAIZI_Z
+    100264: GAIZI_Z1
+    100266: GANGZHU_G
+    100268: GG
+    100270: gg
+    100272: GG 1
+    100274: gg 1
+    100276: gggh
+    100278: gggh 1
+    100280: gggh 2
+    100282: gggh 3
+    100284: GHGF
+    100286: GHGF 1
+    100288: gou
+    100290: gou 1
+    100292: GUI
+    100294: GUIZI
+    100296: HANTOU
+    100298: HANTOU 1
+    100300: HANTOU 2
+    100302: HANTOU 3
+    100304: HANZUO
+    100306: HANZUO 1
+    100308: HANZUO 2
+    100310: HANZUO 3
+    100312: HH
+    100314: HH 1
+    100316: HUADAI
+    100318: HUADAO_OK
+    100320: HUADAO_OK 1
+    100322: HUAN
+    100324: HUAN 1
+    100326: HUATIAO1
+    100328: HUATIAO2
+    100330: JIAER1
+    100332: JIAER2
+    100334: JIAER3
+    100336: JIAER4
+    100338: JIAER5
+    100340: JIAER6
+    100342: JIAZI
+    100344: JIAZI 1
+    100346: JIQI
+    100348: JIQI1
+    100350: //RootNode
+    100352: KK
+    100354: KK 1
+    100356: L
+    100358: L6
+    100360: L7
+    100362: L8
+    100364: LUNZI
+    100366: m
+    100368: m 1
+    100370: MADA16
+    100372: MADA16 1
+    100374: MADA17
+    100376: MADA17 1
+    100378: mjk
+    100380: mjk 1
+    100382: NEI
+    100384: NEI 1
+    100386: NEI 2
+    100388: NEI 3
+    100390: pan
+    100392: pan 1
+    100394: pCube25
+    100396: pCube25 1
+    100398: pCube26
+    100400: pCube26 1
+    100402: pCylinder10
+    100404: pCylinder10 1
+    100406: pCylinder3
+    100408: pCylinder3 1
+    100410: polySurface935
+    100412: polySurface935 1
+    100414: polySurface936
+    100416: polySurface936 1
+    100418: polySurface937
+    100420: polySurface937 1
+    100422: polySurface938
+    100424: polySurface938 1
+    100426: polySurface939
+    100428: polySurface939 1
+    100430: polySurface940
+    100432: polySurface940 1
+    100434: polySurface941
+    100436: polySurface94825
+    100438: polySurface94826
+    100440: q
+    100442: q 1
+    100444: q 2
+    100446: q 3
+    100448: q1
+    100450: q1 1
+    100452: QIAO
+    100454: RT
+    100456: RT 1
+    100458: S
+    100460: s
+    100462: S 1
+    100464: s 1
+    100466: S 2
+    100468: S 3
+    100470: s1
+    100472: s1 1
+    100474: shang
+    100476: shang 1
+    100478: SHENGJIANG
+    100480: shou
+    100482: shou 1
+    100484: shou 2
+    100486: shou 3
+    100488: shou 4
+    100490: shou 5
+    100492: shou1
+    100494: shou1 1
+    100496: SHOU10
+    100498: SHOU10 1
+    100500: shou2
+    100502: shou2 1
+    100504: SHOU2_
+    100506: SHOU2_ 1
+    100508: SHOU3
+    100510: SHOU3 1
+    100512: SHOU4
+    100514: SHOU4 1
+    100516: SHOU5
+    100518: SHOU5 1
+    100520: SHOU6
+    100522: SHOU6 1
+    100524: SHOU7
+    100526: SHOU7 1
+    100528: SHOU8
+    100530: SHOU8 1
+    100532: SHOU9
+    100534: SHOU9 1
+    100536: SHOUTOU2
+    100538: SHOUTOU2 1
+    100540: T
+    100542: TI
+    100544: TI 1
+    100546: TI 2
+    100548: TI 3
+    100550: TI 4
+    100552: TI 5
+    100554: TT
+    100556: TT 1
+    100558: X
+    100560: x
+    100562: X 1
+    100564: x 1
+    100566: X 2
+    100568: X 3
+    100570: X 4
+    100572: X 5
+    100574: x1
+    100576: x1 1
+    100578: xiang
+    100580: xiang 1
+    100582: XIANGZI
+    100584: XIANGZI 1
+    100586: XIANGZI 2
+    100588: XIANGZI1
+    100590: XIANGZI1 1
+    100592: XIANGZI2
+    100594: XIAOSHOU_OK
+    100596: XIAOSHOU_OK 1
+    100598: XIEPO
+    100600: XIEPO 1
+    100602: za
+    100604: za 1
+    100606: ZH
+    100608: ZHANGXIN
+    100610: ZHANGXIN 1
+    100612: ZHANGXIN 2
+    100614: ZHANGXIN 3
+    100616: ZHONGJIA
+    100618: ZHUAZI3
+    100620: ZHUAZI4
+    100622: ZHUAZI_
+    100624: ZHUAZI_ 1
+    100626: ZHUZI
+    100628: ZHUZI 1
+    100630: ZHUZI2
+    100632: ZHUZI2 1
+    100634: ZHUZI3
+    100636: ZHUZI4
+    100638: ZHUZI5
+    100640: ZHUZI6
+    100642: ZHUZI7
+    100644: ZHUZI7 1
+    100646: ZHUZI8
+    100648: ZHUZI8 1
+    100650: zz
+    100652: zz 1
+    100654: s2
+    100656: s10
+    100658: s11
+    100660: s8
+    100662: s9
+    100664: A40
+    100666: A40 1
+    100668: A48
+    100670: A48 1
+    100672: A51
+    100674: A51 1
+    100676: A56
+    100678: A56 1
+    100680: A61
+    100682: A61 1
+    100684: A63
+    100686: A63 1
+    100688: A65
+    100690: A65 1
+    100692: A66
+    100694: A66 1
+    100696: B
+    100698: B 1
+    100700: B1
+    100702: B1 1
+    100704: B2
+    100706: B2 1
+    100708: B3
+    100710: B3 1
+    100712: B4
+    100714: B4 1
+    100716: B5
+    100718: B5 1
+    100720: BAISHE
+    100722: BAISHE 1
+    100724: BOLI
+    100726: BOLI 1
+    100728: CHI 4
+    100730: CHI 5
+    100732: CHIZI 4
+    100734: CHIZI 5
+    100736: CHIZI1 2
+    100738: CHIZI1 3
+    100740: DD
+    100742: DD 1
+    100744: DD 2
+    100746: DD 3
+    100748: DIZUO 2
+    100750: DIZUO 3
+    100752: DS
+    100754: DS 1
+    100756: DS 2
+    100758: DS 3
+    100760: GAIZI 6
+    100762: GAIZI 7
+    100764: GAIZI3 2
+    100766: GAIZI3 3
+    100768: H
+    100770: H 1
+    100772: HUA
+    100774: HUA 1
+    100776: HUA 2
+    100778: HUA 3
+    100780: K
+    100782: K 1
+    100784: K 2
+    100786: K 3
+    100788: KE
+    100790: KE 1
+    100792: LUOXUAN
+    100794: LUOXUAN 1
+    100796: LUOXUAN 2
+    100798: LUOXUAN 3
+    100800: S 4
+    100802: S 5
+    100804: S1
+    100806: S1 1
+    100808: s1 2
+    100810: s1 3
+    100812: s14
+    100814: s14 1
+    100816: s14 2
+    100818: s14 3
+    100820: s2 1
+    100822: s2 2
+    100824: s2 3
+    100826: TI 6
+    100828: TI 7
+    100830: X_FUKE
+    100832: X_FUKE 1
+    100834: X_FUKE1
+    100836: X_FUKE1 1
+    100838: X_GAIZI_C2
+    100840: X_GAIZI_C7
+    100842: X_JIAZI
+    100844: X_JIAZI4
+    100846: X_KEMA
+    100848: X_KEMA 1
+    100850: X_XGUI3
+    100852: X_XGUI5
+    100854: X_ZHENTOU
+    100856: X_ZHENTOU 1
+    100858: X_ZHENTOU1
+    100860: X_ZHENTOU1 1
+    100862: X_ZHUOMIAN
+    100864: X_ZHUOMIAN 1
+    100866: Z
+    100868: Z 1
+    100870: Z 2
+    100872: Z 3
+    100874: ZHONG
+    100876: ZHONG 1
+    100878: ZHUAN
+    100880: ZHUAN 1
+    100882: ZHUAN 2
+    100884: ZHUAN 3
+    100886: ZHUOMIAN
+    100888: ZHUOMIAN 1
+    400000: A
+    400002: A 1
+    400004: A 2
+    400006: A 3
+    400008: A10
+    400010: A11
+    400012: A12
+    400014: A14
+    400016: A15
+    400018: A16
+    400020: A16 1
+    400022: A17
+    400024: A17 1
+    400026: A18
+    400028: A19
+    400030: A2
+    400032: A2 1
+    400034: A3
+    400036: A3 1
+    400038: A4
+    400040: A4 1
+    400042: A5
+    400044: A5 1
+    400046: A6
+    400048: A6 1
+    400050: A8
+    400052: ABC
+    400054: ABC1
+    400056: bb
+    400058: bb 1
+    400060: ce
+    400062: ce 1
+    400064: cheng
+    400066: cheng 1
+    400068: CHENGJIA
+    400070: CHENGJIA1
+    400072: CHI
+    400074: CHI 1
+    400076: CHI 2
+    400078: CHI 3
+    400080: CHIZI
+    400082: CHIZI 1
+    400084: CHIZI 2
+    400086: CHIZI 3
+    400088: CHIZI1
+    400090: CHIZI1 1
+    400092: CHIZI_
+    400094: CHIZI_ 1
+    400096: D
+    400098: D 1
+    400100: D 2
+    400102: D 3
+    400104: D 4
+    400106: D 5
+    400108: D 6
+    400110: D 7
+    400112: D 8
+    400114: D 9
+    400116: D1
+    400118: D1 1
+    400120: D1 2
+    400122: D1 3
+    400124: D2
+    400126: D3
+    400128: DASHOU_OK
+    400130: DASHOU_OK 1
+    400132: dd
+    400134: dd 1
+    400136: dd 2
+    400138: dd 3
+    400140: deng
+    400142: deng 1
+    400144: DIANHAN1
+    400146: DIANHAN1 1
+    400148: DIANHAN_
+    400150: DIANHAN_ 1
+    400152: DIDAO
+    400154: dipan2
+    400156: dipan2 1
+    400158: dipan3
+    400160: dipan3 1
+    400162: DIZUO
+    400164: DIZUO 1
+    400166: DW
+    400168: DW 1
+    400170: dz
+    400172: dz 1
+    400174: E
+    400176: E1
+    400178: E2
+    400180: ER
+    400182: ER 1
+    400184: F
+    400186: F 1
+    400188: F 2
+    400190: F 3
+    400192: F 4
+    400194: F 5
+    400196: FD
+    400198: FD 1
+    400200: ff
+    400202: ff 1
+    400204: ff 2
+    400206: ff 3
+    400208: ffgg
+    400210: ffgg 1
+    400212: G
+    400214: g
+    400216: G 1
+    400218: g 1
+    400220: g1
+    400222: g1 1
+    400224: g2
+    400226: g2 1
+    400228: GAIZI
+    400230: GAIZI 1
+    400232: GAIZI 2
+    400234: GAIZI 3
+    400236: GAIZI 4
+    400238: GAIZI 5
+    400240: GAIZI2
+    400242: GAIZI2 1
+    400244: GAIZI3
+    400246: GAIZI3 1
+    400248: GAIZI4
+    400250: GAIZI4 1
+    400252: GAIZI_C
+    400254: GAIZI_C1
+    400256: GAIZI_D
+    400258: GAIZI_D 1
+    400260: GAIZI_OK
+    400262: GAIZI_Z
+    400264: GAIZI_Z1
+    400266: GANGZHU_G
+    400268: GG
+    400270: gg
+    400272: GG 1
+    400274: gg 1
+    400276: gggh
+    400278: gggh 1
+    400280: gggh 2
+    400282: gggh 3
+    400284: GHGF
+    400286: GHGF 1
+    400288: gou
+    400290: gou 1
+    400292: GUI
+    400294: GUIZI
+    400296: HANTOU
+    400298: HANTOU 1
+    400300: HANTOU 2
+    400302: HANTOU 3
+    400304: HANZUO
+    400306: HANZUO 1
+    400308: HANZUO 2
+    400310: HANZUO 3
+    400312: HH
+    400314: HH 1
+    400316: HUADAI
+    400318: HUADAO_OK
+    400320: HUADAO_OK 1
+    400322: HUAN
+    400324: HUAN 1
+    400326: HUATIAO1
+    400328: HUATIAO2
+    400330: JIAER1
+    400332: JIAER2
+    400334: JIAER3
+    400336: JIAER4
+    400338: JIAER5
+    400340: JIAER6
+    400342: JIAZI
+    400344: JIAZI 1
+    400346: JIQI
+    400348: JIQI1
+    400350: //RootNode
+    400352: KK
+    400354: KK 1
+    400356: L
+    400358: L6
+    400360: L7
+    400362: L8
+    400364: LUNZI
+    400366: m
+    400368: m 1
+    400370: MADA16
+    400372: MADA16 1
+    400374: MADA17
+    400376: MADA17 1
+    400378: mjk
+    400380: mjk 1
+    400382: NEI
+    400384: NEI 1
+    400386: NEI 2
+    400388: NEI 3
+    400390: pan
+    400392: pan 1
+    400394: pCube25
+    400396: pCube25 1
+    400398: pCube26
+    400400: pCube26 1
+    400402: pCylinder10
+    400404: pCylinder10 1
+    400406: pCylinder3
+    400408: pCylinder3 1
+    400410: polySurface935
+    400412: polySurface935 1
+    400414: polySurface936
+    400416: polySurface936 1
+    400418: polySurface937
+    400420: polySurface937 1
+    400422: polySurface938
+    400424: polySurface938 1
+    400426: polySurface939
+    400428: polySurface939 1
+    400430: polySurface940
+    400432: polySurface940 1
+    400434: polySurface941
+    400436: polySurface94825
+    400438: polySurface94826
+    400440: q
+    400442: q 1
+    400444: q 2
+    400446: q 3
+    400448: q1
+    400450: q1 1
+    400452: QIAO
+    400454: RT
+    400456: RT 1
+    400458: S
+    400460: s
+    400462: S 1
+    400464: s 1
+    400466: S 2
+    400468: S 3
+    400470: s1
+    400472: s1 1
+    400474: shang
+    400476: shang 1
+    400478: SHENGJIANG
+    400480: shou
+    400482: shou 1
+    400484: shou 2
+    400486: shou 3
+    400488: shou 4
+    400490: shou 5
+    400492: shou1
+    400494: shou1 1
+    400496: SHOU10
+    400498: SHOU10 1
+    400500: shou2
+    400502: shou2 1
+    400504: SHOU2_
+    400506: SHOU2_ 1
+    400508: SHOU3
+    400510: SHOU3 1
+    400512: SHOU4
+    400514: SHOU4 1
+    400516: SHOU5
+    400518: SHOU5 1
+    400520: SHOU6
+    400522: SHOU6 1
+    400524: SHOU7
+    400526: SHOU7 1
+    400528: SHOU8
+    400530: SHOU8 1
+    400532: SHOU9
+    400534: SHOU9 1
+    400536: SHOUTOU2
+    400538: SHOUTOU2 1
+    400540: T
+    400542: TI
+    400544: TI 1
+    400546: TI 2
+    400548: TI 3
+    400550: TI 4
+    400552: TI 5
+    400554: TT
+    400556: TT 1
+    400558: X
+    400560: x
+    400562: X 1
+    400564: x 1
+    400566: X 2
+    400568: X 3
+    400570: X 4
+    400572: X 5
+    400574: x1
+    400576: x1 1
+    400578: xiang
+    400580: xiang 1
+    400582: XIANGZI
+    400584: XIANGZI 1
+    400586: XIANGZI 2
+    400588: XIANGZI1
+    400590: XIANGZI1 1
+    400592: XIANGZI2
+    400594: XIAOSHOU_OK
+    400596: XIAOSHOU_OK 1
+    400598: XIEPO
+    400600: XIEPO 1
+    400602: za
+    400604: za 1
+    400606: ZH
+    400608: ZHANGXIN
+    400610: ZHANGXIN 1
+    400612: ZHANGXIN 2
+    400614: ZHANGXIN 3
+    400616: ZHONGJIA
+    400618: ZHUAZI3
+    400620: ZHUAZI4
+    400622: ZHUAZI_
+    400624: ZHUAZI_ 1
+    400626: ZHUZI
+    400628: ZHUZI 1
+    400630: ZHUZI2
+    400632: ZHUZI2 1
+    400634: ZHUZI3
+    400636: ZHUZI4
+    400638: ZHUZI5
+    400640: ZHUZI6
+    400642: ZHUZI7
+    400644: ZHUZI7 1
+    400646: ZHUZI8
+    400648: ZHUZI8 1
+    400650: zz
+    400652: zz 1
+    400654: s2
+    400656: s10
+    400658: s11
+    400660: s8
+    400662: s9
+    400664: A40
+    400666: A40 1
+    400668: A48
+    400670: A48 1
+    400672: A51
+    400674: A51 1
+    400676: A56
+    400678: A56 1
+    400680: A61
+    400682: A61 1
+    400684: A63
+    400686: A63 1
+    400688: A65
+    400690: A65 1
+    400692: A66
+    400694: A66 1
+    400696: B
+    400698: B 1
+    400700: B1
+    400702: B1 1
+    400704: B2
+    400706: B2 1
+    400708: B3
+    400710: B3 1
+    400712: B4
+    400714: B4 1
+    400716: B5
+    400718: B5 1
+    400720: BAISHE
+    400722: BAISHE 1
+    400724: BOLI
+    400726: BOLI 1
+    400728: CHI 4
+    400730: CHI 5
+    400732: CHIZI 4
+    400734: CHIZI 5
+    400736: CHIZI1 2
+    400738: CHIZI1 3
+    400740: DD
+    400742: DD 1
+    400744: DD 2
+    400746: DD 3
+    400748: DIZUO 2
+    400750: DIZUO 3
+    400752: DS
+    400754: DS 1
+    400756: DS 2
+    400758: DS 3
+    400760: GAIZI 6
+    400762: GAIZI 7
+    400764: GAIZI3 2
+    400766: GAIZI3 3
+    400768: H
+    400770: H 1
+    400772: HUA
+    400774: HUA 1
+    400776: HUA 2
+    400778: HUA 3
+    400780: K
+    400782: K 1
+    400784: K 2
+    400786: K 3
+    400788: KE
+    400790: KE 1
+    400792: LUOXUAN
+    400794: LUOXUAN 1
+    400796: LUOXUAN 2
+    400798: LUOXUAN 3
+    400800: S 4
+    400802: S 5
+    400804: S1
+    400806: S1 1
+    400808: s1 2
+    400810: s1 3
+    400812: s14
+    400814: s14 1
+    400816: s14 2
+    400818: s14 3
+    400820: s2 1
+    400822: s2 2
+    400824: s2 3
+    400826: TI 6
+    400828: TI 7
+    400830: X_FUKE
+    400832: X_FUKE 1
+    400834: X_FUKE1
+    400836: X_FUKE1 1
+    400838: X_GAIZI_C2
+    400840: X_GAIZI_C7
+    400842: X_JIAZI
+    400844: X_JIAZI4
+    400846: X_KEMA
+    400848: X_KEMA 1
+    400850: X_XGUI3
+    400852: X_XGUI5
+    400854: X_ZHENTOU
+    400856: X_ZHENTOU 1
+    400858: X_ZHENTOU1
+    400860: X_ZHENTOU1 1
+    400862: X_ZHUOMIAN
+    400864: X_ZHUOMIAN 1
+    400866: Z
+    400868: Z 1
+    400870: Z 2
+    400872: Z 3
+    400874: ZHONG
+    400876: ZHONG 1
+    400878: ZHUAN
+    400880: ZHUAN 1
+    400882: ZHUAN 2
+    400884: ZHUAN 3
+    400886: ZHUOMIAN
+    400888: ZHUOMIAN 1
+    2100000: JINSHU
+    2100002: GUANZI
+    2100004: HEIPI
+    2100006: LANSE
+    2100008: GUNLUN
+    2100010: GANG
+    2100012: HUANG
+    2100014: heitie
+    2100016: ZHONGSE2
+    2100018: HONG
+    2100020: BAIPI
+    2100022: PINGMU
+    2100024: LV
+    2100026: FADONGJI1
+    2100028: LANSE02
+    2300000: A
+    2300002: A 1
+    2300004: A 2
+    2300006: A 3
+    2300008: A10
+    2300010: A11
+    2300012: A12
+    2300014: A14
+    2300016: A15
+    2300018: A16
+    2300020: A16 1
+    2300022: A17
+    2300024: A17 1
+    2300026: A18
+    2300028: A19
+    2300030: A2
+    2300032: A2 1
+    2300034: A3
+    2300036: A3 1
+    2300038: A4
+    2300040: A4 1
+    2300042: A5
+    2300044: A5 1
+    2300046: A6
+    2300048: A6 1
+    2300050: A8
+    2300052: bb
+    2300054: bb 1
+    2300056: CHI
+    2300058: CHI 1
+    2300060: CHI 2
+    2300062: CHI 3
+    2300064: CHIZI
+    2300066: CHIZI 1
+    2300068: CHIZI 2
+    2300070: CHIZI 3
+    2300072: D
+    2300074: D 1
+    2300076: D 6
+    2300078: D 7
+    2300080: D 8
+    2300082: D 9
+    2300084: D1
+    2300086: D1 1
+    2300088: D1 2
+    2300090: D1 3
+    2300092: D2
+    2300094: D3
+    2300096: dd
+    2300098: dd 1
+    2300100: dd 2
+    2300102: dd 3
+    2300104: deng
+    2300106: deng 1
+    2300108: dipan2
+    2300110: dipan2 1
+    2300112: dipan3
+    2300114: dipan3 1
+    2300116: DIZUO
+    2300118: DIZUO 1
+    2300120: DW
+    2300122: DW 1
+    2300124: dz
+    2300126: dz 1
+    2300128: E
+    2300130: E1
+    2300132: E2
+    2300134: ER
+    2300136: ER 1
+    2300138: F
+    2300140: F 1
+    2300142: F 2
+    2300144: F 3
+    2300146: F 4
+    2300148: F 5
+    2300150: FD
+    2300152: FD 1
+    2300154: ff
+    2300156: ff 1
+    2300158: ff 2
+    2300160: ff 3
+    2300162: ffgg
+    2300164: ffgg 1
+    2300166: G
+    2300168: g
+    2300170: G 1
+    2300172: g 1
+    2300174: g1
+    2300176: g1 1
+    2300178: g2
+    2300180: g2 1
+    2300182: GAIZI
+    2300184: GAIZI 1
+    2300186: GAIZI 2
+    2300188: GAIZI 3
+    2300190: GAIZI 4
+    2300192: GAIZI 5
+    2300194: GG
+    2300196: gg
+    2300198: GG 1
+    2300200: gg 1
+    2300202: gggh
+    2300204: gggh 1
+    2300206: gggh 2
+    2300208: gggh 3
+    2300210: GHGF
+    2300212: GHGF 1
+    2300214: gou
+    2300216: gou 1
+    2300218: HANTOU
+    2300220: HANTOU 1
+    2300222: HANTOU 2
+    2300224: HANTOU 3
+    2300226: HANZUO
+    2300228: HANZUO 1
+    2300230: HANZUO 2
+    2300232: HANZUO 3
+    2300234: HH
+    2300236: HH 1
+    2300238: JIAER1
+    2300240: JIAER2
+    2300242: JIAER3
+    2300244: JIAER4
+    2300246: JIAER5
+    2300248: JIAER6
+    2300250: JIAZI
+    2300252: JIAZI 1
+    2300254: KK
+    2300256: KK 1
+    2300258: L
+    2300260: L6
+    2300262: L7
+    2300264: L8
+    2300266: pan
+    2300268: pan 1
+    2300270: pCube25
+    2300272: pCube25 1
+    2300274: pCube26
+    2300276: pCube26 1
+    2300278: pCylinder10
+    2300280: pCylinder10 1
+    2300282: pCylinder3
+    2300284: pCylinder3 1
+    2300286: polySurface935
+    2300288: polySurface935 1
+    2300290: polySurface936
+    2300292: polySurface936 1
+    2300294: polySurface937
+    2300296: polySurface937 1
+    2300298: polySurface938
+    2300300: polySurface938 1
+    2300302: polySurface939
+    2300304: polySurface939 1
+    2300306: polySurface940
+    2300308: polySurface940 1
+    2300310: polySurface941
+    2300312: polySurface94825
+    2300314: polySurface94826
+    2300316: q 2
+    2300318: q 3
+    2300320: q1
+    2300322: q1 1
+    2300324: QIAO
+    2300326: RT
+    2300328: RT 1
+    2300330: S
+    2300332: s
+    2300334: S 1
+    2300336: s 1
+    2300338: S 2
+    2300340: S 3
+    2300342: s1
+    2300344: s1 1
+    2300346: shou1
+    2300348: shou1 1
+    2300350: SHOU10
+    2300352: SHOU10 1
+    2300354: SHOU5
+    2300356: SHOU5 1
+    2300358: SHOU8
+    2300360: SHOU8 1
+    2300362: T
+    2300364: TI
+    2300366: TI 1
+    2300368: TI 2
+    2300370: TI 3
+    2300372: TI 4
+    2300374: TI 5
+    2300376: TT
+    2300378: TT 1
+    2300380: X
+    2300382: x
+    2300384: X 1
+    2300386: x 1
+    2300388: X 2
+    2300390: X 3
+    2300392: X 4
+    2300394: X 5
+    2300396: x1
+    2300398: x1 1
+    2300400: xiang
+    2300402: xiang 1
+    2300404: ZHANGXIN
+    2300406: ZHANGXIN 1
+    2300408: ZHANGXIN 2
+    2300410: ZHANGXIN 3
+    2300412: ZHUZI
+    2300414: ZHUZI 1
+    2300416: ZHUZI2
+    2300418: ZHUZI2 1
+    2300420: ZHUZI3
+    2300422: ZHUZI4
+    2300424: ZHUZI5
+    2300426: ZHUZI6
+    2300428: ZHUZI7
+    2300430: ZHUZI7 1
+    2300432: ZHUZI8
+    2300434: ZHUZI8 1
+    2300436: zz
+    2300438: zz 1
+    2300440: s2
+    2300442: //RootNode
+    2300444: s10
+    2300446: s11
+    2300448: s8
+    2300450: s9
+    2300452: A40
+    2300454: A40 1
+    2300456: A48
+    2300458: A48 1
+    2300460: A51
+    2300462: A51 1
+    2300464: A56
+    2300466: A56 1
+    2300468: A61
+    2300470: A61 1
+    2300472: A63
+    2300474: A63 1
+    2300476: A65
+    2300478: A65 1
+    2300480: A66
+    2300482: A66 1
+    2300484: B
+    2300486: B 1
+    2300488: B1
+    2300490: B1 1
+    2300492: B2
+    2300494: B2 1
+    2300496: B3
+    2300498: B3 1
+    2300500: B4
+    2300502: B4 1
+    2300504: B5
+    2300506: B5 1
+    2300508: BOLI
+    2300510: BOLI 1
+    2300512: CHI 4
+    2300514: CHI 5
+    2300516: CHIZI 4
+    2300518: CHIZI 5
+    2300520: DD
+    2300522: DD 1
+    2300524: DD 2
+    2300526: DD 3
+    2300528: DIZUO 2
+    2300530: DIZUO 3
+    2300532: DS
+    2300534: DS 1
+    2300536: DS 2
+    2300538: DS 3
+    2300540: GAIZI 6
+    2300542: GAIZI 7
+    2300544: H
+    2300546: H 1
+    2300548: HUA
+    2300550: HUA 1
+    2300552: HUA 2
+    2300554: HUA 3
+    2300556: K
+    2300558: K 1
+    2300560: K 2
+    2300562: K 3
+    2300564: KE
+    2300566: KE 1
+    2300568: S 4
+    2300570: S 5
+    2300572: S1
+    2300574: S1 1
+    2300576: s1 2
+    2300578: s1 3
+    2300580: s14
+    2300582: s14 1
+    2300584: s14 2
+    2300586: s14 3
+    2300588: s2 1
+    2300590: s2 2
+    2300592: s2 3
+    2300594: TI 6
+    2300596: TI 7
+    2300598: Z
+    2300600: Z 1
+    2300602: Z 2
+    2300604: Z 3
+    2300606: ZHONG
+    2300608: ZHONG 1
+    2300610: ZHUOMIAN
+    2300612: ZHUOMIAN 1
+    3300000: A
+    3300002: A 1
+    3300004: A 2
+    3300006: A 3
+    3300008: A10
+    3300010: A11
+    3300012: A12
+    3300014: A14
+    3300016: A15
+    3300018: A16
+    3300020: A16 1
+    3300022: A17
+    3300024: A17 1
+    3300026: A18
+    3300028: A19
+    3300030: A2
+    3300032: A2 1
+    3300034: A3
+    3300036: A3 1
+    3300038: A4
+    3300040: A4 1
+    3300042: A5
+    3300044: A5 1
+    3300046: A6
+    3300048: A6 1
+    3300050: A8
+    3300052: bb
+    3300054: bb 1
+    3300056: CHI
+    3300058: CHI 1
+    3300060: CHI 2
+    3300062: CHI 3
+    3300064: CHIZI
+    3300066: CHIZI 1
+    3300068: CHIZI 2
+    3300070: CHIZI 3
+    3300072: D
+    3300074: D 1
+    3300076: D 6
+    3300078: D 7
+    3300080: D 8
+    3300082: D 9
+    3300084: D1
+    3300086: D1 1
+    3300088: D1 2
+    3300090: D1 3
+    3300092: D2
+    3300094: D3
+    3300096: dd
+    3300098: dd 1
+    3300100: dd 2
+    3300102: dd 3
+    3300104: deng
+    3300106: deng 1
+    3300108: dipan2
+    3300110: dipan2 1
+    3300112: dipan3
+    3300114: dipan3 1
+    3300116: DIZUO
+    3300118: DIZUO 1
+    3300120: DW
+    3300122: DW 1
+    3300124: dz
+    3300126: dz 1
+    3300128: E
+    3300130: E1
+    3300132: E2
+    3300134: ER
+    3300136: ER 1
+    3300138: F
+    3300140: F 1
+    3300142: F 2
+    3300144: F 3
+    3300146: F 4
+    3300148: F 5
+    3300150: FD
+    3300152: FD 1
+    3300154: ff
+    3300156: ff 1
+    3300158: ff 2
+    3300160: ff 3
+    3300162: ffgg
+    3300164: ffgg 1
+    3300166: G
+    3300168: g
+    3300170: G 1
+    3300172: g 1
+    3300174: g1
+    3300176: g1 1
+    3300178: g2
+    3300180: g2 1
+    3300182: GAIZI
+    3300184: GAIZI 1
+    3300186: GAIZI 2
+    3300188: GAIZI 3
+    3300190: GAIZI 4
+    3300192: GAIZI 5
+    3300194: GG
+    3300196: gg
+    3300198: GG 1
+    3300200: gg 1
+    3300202: gggh
+    3300204: gggh 1
+    3300206: gggh 2
+    3300208: gggh 3
+    3300210: GHGF
+    3300212: GHGF 1
+    3300214: gou
+    3300216: gou 1
+    3300218: HANTOU
+    3300220: HANTOU 1
+    3300222: HANTOU 2
+    3300224: HANTOU 3
+    3300226: HANZUO
+    3300228: HANZUO 1
+    3300230: HANZUO 2
+    3300232: HANZUO 3
+    3300234: HH
+    3300236: HH 1
+    3300238: JIAER1
+    3300240: JIAER2
+    3300242: JIAER3
+    3300244: JIAER4
+    3300246: JIAER5
+    3300248: JIAER6
+    3300250: JIAZI
+    3300252: JIAZI 1
+    3300254: KK
+    3300256: KK 1
+    3300258: L
+    3300260: L6
+    3300262: L7
+    3300264: L8
+    3300266: pan
+    3300268: pan 1
+    3300270: pCube25
+    3300272: pCube25 1
+    3300274: pCube26
+    3300276: pCube26 1
+    3300278: pCylinder10
+    3300280: pCylinder10 1
+    3300282: pCylinder3
+    3300284: pCylinder3 1
+    3300286: polySurface935
+    3300288: polySurface935 1
+    3300290: polySurface936
+    3300292: polySurface936 1
+    3300294: polySurface937
+    3300296: polySurface937 1
+    3300298: polySurface938
+    3300300: polySurface938 1
+    3300302: polySurface939
+    3300304: polySurface939 1
+    3300306: polySurface940
+    3300308: polySurface940 1
+    3300310: polySurface941
+    3300312: polySurface94825
+    3300314: polySurface94826
+    3300316: q 2
+    3300318: q 3
+    3300320: q1
+    3300322: q1 1
+    3300324: QIAO
+    3300326: RT
+    3300328: RT 1
+    3300330: S
+    3300332: s
+    3300334: S 1
+    3300336: s 1
+    3300338: S 2
+    3300340: S 3
+    3300342: s1
+    3300344: s1 1
+    3300346: shou1
+    3300348: shou1 1
+    3300350: SHOU10
+    3300352: SHOU10 1
+    3300354: SHOU5
+    3300356: SHOU5 1
+    3300358: SHOU8
+    3300360: SHOU8 1
+    3300362: T
+    3300364: TI
+    3300366: TI 1
+    3300368: TI 2
+    3300370: TI 3
+    3300372: TI 4
+    3300374: TI 5
+    3300376: TT
+    3300378: TT 1
+    3300380: X
+    3300382: x
+    3300384: X 1
+    3300386: x 1
+    3300388: X 2
+    3300390: X 3
+    3300392: X 4
+    3300394: X 5
+    3300396: x1
+    3300398: x1 1
+    3300400: xiang
+    3300402: xiang 1
+    3300404: ZHANGXIN
+    3300406: ZHANGXIN 1
+    3300408: ZHANGXIN 2
+    3300410: ZHANGXIN 3
+    3300412: ZHUZI
+    3300414: ZHUZI 1
+    3300416: ZHUZI2
+    3300418: ZHUZI2 1
+    3300420: ZHUZI3
+    3300422: ZHUZI4
+    3300424: ZHUZI5
+    3300426: ZHUZI6
+    3300428: ZHUZI7
+    3300430: ZHUZI7 1
+    3300432: ZHUZI8
+    3300434: ZHUZI8 1
+    3300436: zz
+    3300438: zz 1
+    3300440: s2
+    3300442: //RootNode
+    3300444: s10
+    3300446: s11
+    3300448: s8
+    3300450: s9
+    3300452: A40
+    3300454: A40 1
+    3300456: A48
+    3300458: A48 1
+    3300460: A51
+    3300462: A51 1
+    3300464: A56
+    3300466: A56 1
+    3300468: A61
+    3300470: A61 1
+    3300472: A63
+    3300474: A63 1
+    3300476: A65
+    3300478: A65 1
+    3300480: A66
+    3300482: A66 1
+    3300484: B
+    3300486: B 1
+    3300488: B1
+    3300490: B1 1
+    3300492: B2
+    3300494: B2 1
+    3300496: B3
+    3300498: B3 1
+    3300500: B4
+    3300502: B4 1
+    3300504: B5
+    3300506: B5 1
+    3300508: BOLI
+    3300510: BOLI 1
+    3300512: CHI 4
+    3300514: CHI 5
+    3300516: CHIZI 4
+    3300518: CHIZI 5
+    3300520: DD
+    3300522: DD 1
+    3300524: DD 2
+    3300526: DD 3
+    3300528: DIZUO 2
+    3300530: DIZUO 3
+    3300532: DS
+    3300534: DS 1
+    3300536: DS 2
+    3300538: DS 3
+    3300540: GAIZI 6
+    3300542: GAIZI 7
+    3300544: H
+    3300546: H 1
+    3300548: HUA
+    3300550: HUA 1
+    3300552: HUA 2
+    3300554: HUA 3
+    3300556: K
+    3300558: K 1
+    3300560: K 2
+    3300562: K 3
+    3300564: KE
+    3300566: KE 1
+    3300568: S 4
+    3300570: S 5
+    3300572: S1
+    3300574: S1 1
+    3300576: s1 2
+    3300578: s1 3
+    3300580: s14
+    3300582: s14 1
+    3300584: s14 2
+    3300586: s14 3
+    3300588: s2 1
+    3300590: s2 2
+    3300592: s2 3
+    3300594: TI 6
+    3300596: TI 7
+    3300598: Z
+    3300600: Z 1
+    3300602: Z 2
+    3300604: Z 3
+    3300606: ZHONG
+    3300608: ZHONG 1
+    3300610: ZHUOMIAN
+    3300612: ZHUOMIAN 1
+    4300000: E
+    4300002: E1
+    4300004: E2
+    4300006: JIAER1
+    4300008: JIAER2
+    4300010: JIAER3
+    4300012: JIAER4
+    4300014: JIAER5
+    4300016: JIAER6
+    4300018: L
+    4300020: L6
+    4300022: L7
+    4300024: L8
+    4300026: polySurface94825
+    4300028: polySurface94826
+    4300030: T
+    4300032: X
+    4300034: S
+    4300036: A17
+    4300038: A16
+    4300040: A18
+    4300042: A19
+    4300044: dd
+    4300046: ff
+    4300048: gggh
+    4300050: dd
+    4300052: ff
+    4300054: gggh
+    4300056: zz
+    4300058: q
+    4300060: q1
+    4300062: dz
+    4300064: deng
+    4300066: gou
+    4300068: x1
+    4300070: x
+    4300072: dipan2
+    4300074: dd
+    4300076: ff
+    4300078: gggh
+    4300080: dd
+    4300082: ff
+    4300084: gggh
+    4300086: zz
+    4300088: q
+    4300090: q1
+    4300092: dz
+    4300094: deng
+    4300096: gou
+    4300098: x1
+    4300100: x
+    4300102: dipan2
+    4300104: D
+    4300106: D2
+    4300108: F
+    4300110: A16
+    4300112: A
+    4300114: A14
+    4300116: A12
+    4300118: polySurface940
+    4300120: polySurface941
+    4300122: polySurface939
+    4300124: polySurface936
+    4300126: polySurface935
+    4300128: polySurface938
+    4300130: polySurface937
+    4300132: A15
+    4300134: D
+    4300136: D3
+    4300138: F
+    4300140: A17
+    4300142: A8
+    4300144: A10
+    4300146: A11
+    4300148: polySurface940
+    4300150: polySurface939
+    4300152: polySurface936
+    4300154: polySurface935
+    4300156: polySurface938
+    4300158: polySurface937
+    4300160: A
+    4300162: pCube26
+    4300164: pCube25
+    4300166: pCylinder3
+    4300168: pCylinder10
+    4300170: g
+    4300172: g1
+    4300174: g2
+    4300176: JIAZI
+    4300178: xiang
+    4300180: s1
+    4300182: s
+    4300184: S
+    4300186: DW
+    4300188: SHOU5
+    4300190: TT
+    4300192: SHOU10
+    4300194: DIZUO
+    4300196: SHOU8
+    4300198: gg
+    4300200: ZHUZI
+    4300202: ZHANGXIN
+    4300204: ZHUZI3
+    4300206: ZHUZI4
+    4300208: CHI
+    4300210: CHIZI
+    4300212: HANZUO
+    4300214: HANTOU
+    4300216: pan
+    4300218: ffgg
+    4300220: A2
+    4300222: A3
+    4300224: A4
+    4300226: A5
+    4300228: A6
+    4300230: A
+    4300232: F
+    4300234: GG
+    4300236: bb
+    4300238: shou1
+    4300240: HH
+    4300242: GHGF
+    4300244: RT
+    4300246: FD
+    4300248: KK
+    4300250: ER
+    4300252: dipan3
+    4300254: GAIZI
+    4300256: TI
+    4300258: HANZUO
+    4300260: HANTOU
+    4300262: pCube26
+    4300264: pCube25
+    4300266: pCylinder3
+    4300268: pCylinder10
+    4300270: g
+    4300272: g1
+    4300274: g2
+    4300276: JIAZI
+    4300278: xiang
+    4300280: s1
+    4300282: s
+    4300284: S
+    4300286: DW
+    4300288: SHOU5
+    4300290: TT
+    4300292: SHOU10
+    4300294: DIZUO
+    4300296: SHOU8
+    4300298: gg
+    4300300: ZHUZI
+    4300302: ZHUZI5
+    4300304: ZHUZI6
+    4300306: ZHANGXIN
+    4300308: CHI
+    4300310: CHIZI
+    4300312: HANZUO
+    4300314: HANTOU
+    4300316: pan
+    4300318: ffgg
+    4300320: A2
+    4300322: A3
+    4300324: A4
+    4300326: A5
+    4300328: A6
+    4300330: A
+    4300332: F
+    4300334: GG
+    4300336: bb
+    4300338: shou1
+    4300340: HH
+    4300342: GHGF
+    4300344: RT
+    4300346: FD
+    4300348: KK
+    4300350: ER
+    4300352: dipan3
+    4300354: GAIZI
+    4300356: TI
+    4300358: HANZUO
+    4300360: HANTOU
+    4300362: D
+    4300364: D1
+    4300366: X
+    4300368: D
+    4300370: D1
+    4300372: X
+    4300374: D
+    4300376: D1
+    4300378: X
+    4300380: D
+    4300382: D1
+    4300384: X
+    4300386: F
+    4300388: G
+    4300390: F
+    4300392: G
+    4300394: QIAO
+    4300396: S
+    4300398: X
+    4300400: GAIZI
+    4300402: TI
+    4300404: CHI
+    4300406: CHIZI
+    4300408: GAIZI
+    4300410: TI
+    4300412: ZHUZI2
+    4300414: ZHUZI7
+    4300416: ZHUZI8
+    4300418: ZHANGXIN
+    4300420: GAIZI
+    4300422: TI
+    4300424: CHI
+    4300426: CHIZI
+    4300428: GAIZI
+    4300430: TI
+    4300432: ZHUZI2
+    4300434: ZHUZI7
+    4300436: ZHUZI8
+    4300438: ZHANGXIN
+    4300440: s2
+    4300442: WEILAN_01
+    4300444: s9
+    4300446: s8
+    4300448: s10
+    4300450: s11
+    4300452: A66
+    4300454: HUA
+    4300456: DS
+    4300458: s14
+    4300460: DD
+    4300462: HUA
+    4300464: DS
+    4300466: s14
+    4300468: s2
+    4300470: DD
+    4300472: Z
+    4300474: K
+    4300476: Z
+    4300478: K
+    4300480: BOLI
+    4300482: KE
+    4300484: ZHONG
+    4300486: A40
+    4300488: A48
+    4300490: A51
+    4300492: A56
+    4300494: A61
+    4300496: A63
+    4300498: A65
+    4300500: ZHUOMIAN
+    4300502: B
+    4300504: B1
+    4300506: B2
+    4300508: B3
+    4300510: B4
+    4300512: B5
+    4300514: A66
+    4300516: HUA
+    4300518: DS
+    4300520: s14
+    4300522: s2
+    4300524: s1
+    4300526: DD
+    4300528: HUA
+    4300530: DS
+    4300532: s14
+    4300534: s2
+    4300536: s1
+    4300538: DD
+    4300540: Z
+    4300542: K
+    4300544: Z
+    4300546: K
+    4300548: BOLI
+    4300550: KE
+    4300552: ZHONG
+    4300554: A40
+    4300556: A48
+    4300558: A51
+    4300560: A56
+    4300562: A61
+    4300564: A63
+    4300566: A65
+    4300568: ZHUOMIAN
+    4300570: B
+    4300572: B1
+    4300574: B2
+    4300576: B3
+    4300578: B4
+    4300580: B5
+    4300582: H
+    4300584: S1
+    4300586: H
+    4300588: S1
+    4300590: DIZUO
+    4300592: S
+    4300594: DIZUO
+    4300596: S
+    4300598: CHI
+    4300600: CHIZI
+    4300602: GAIZI
+    4300604: TI
+    4300606: CHI
+    4300608: CHIZI
+    4300610: GAIZI
+    4300612: TI
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BAIBOLI
+    second: {fileID: 2100000, guid: 882e5277e6badac46b453d9bfac16ba3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BAIPI
+    second: {fileID: 2100000, guid: 3d9ae07142938a04095bef85c30c7dde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BAIPI_AO
+    second: {fileID: 2100000, guid: 733b59505a757ce4a8de4d5d456b529d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CHENGSE
+    second: {fileID: 2100000, guid: d6d20ce4f1cbc244189e545ac9cd2f9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CHENGSE1
+    second: {fileID: 2100000, guid: 76fe739a1fc580d4890df2cfa67b1295, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FADONGJI1
+    second: {fileID: 2100000, guid: 91a20c6ce832b154bbdc4bc1f8c8dbee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GANG
+    second: {fileID: 2100000, guid: ff21eb69b71b4e544bf6e613d18bc4f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GUANZI
+    second: {fileID: 2100000, guid: e66f13fbc4c7c4b4890ecebb68dc38e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GUNLUN
+    second: {fileID: 2100000, guid: d30b550c0dc29974d89862edb707f5a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HEIPI
+    second: {fileID: 2100000, guid: b7f9a816bb6666848b36aedd5e33bcd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HONG
+    second: {fileID: 2100000, guid: 515da27bba4fcd04fa3257b5fa0a4262, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HUANG
+    second: {fileID: 2100000, guid: 3af7e734d4b2f7448b8f7c7bbf8e161b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JINSHU
+    second: {fileID: 2100000, guid: 48e2808d201c87342a27b2b5546c8981, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LANSE
+    second: {fileID: 2100000, guid: fa82657bb7ec8bf459f12e8d891a83ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LANSE02
+    second: {fileID: 2100000, guid: 2c0b806ff726816409912109dfb175c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LV
+    second: {fileID: 2100000, guid: 590545c3289238a44a6fc11d2dc739c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PINGMU
+    second: {fileID: 2100000, guid: f090933b1c1a50f40985e8612be09180, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TONG
+    second: {fileID: 2100000, guid: 417049f83283f624f93ece46c9319d3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: X_BAIHULAN
+    second: {fileID: 2100000, guid: 0f7c3f816a74a7549b17d46e9cf78764, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: X_BAIHULAN1
+    second: {fileID: 2100000, guid: 1f7361c9cbd0e814a85cd6b29610b04f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: X_HEI
+    second: {fileID: 2100000, guid: 439630f90f258de4e8daab7be7258bac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: X_JINSHU
+    second: {fileID: 2100000, guid: fc9e54f7db069b64087fc29d02aa63ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: X_LAN_BIAN1
+    second: {fileID: 2100000, guid: 4dbc7679cb44159429bb670a099897db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ZHONGSE2
+    second: {fileID: 2100000, guid: 23154a512a2e27b44b69ef5c15a2ccd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: heitie
+    second: {fileID: 2100000, guid: 90c99d2040be77549bf7ca68f92ddea8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: huangse
+    second: {fileID: 2100000, guid: d408744160d1a2c42891951200bda2f3, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

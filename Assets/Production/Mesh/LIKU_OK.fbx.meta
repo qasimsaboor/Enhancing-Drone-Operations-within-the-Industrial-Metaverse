@@ -1,0 +1,417 @@
+fileFormatVersion: 2
+guid: 8bcb2ad9800eb4d4ea57ee7229fb3495
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: A
+    100002: Administrator_20200715_1452:SHENGCHAN:Box115
+    100004: Administrator_20200715_1452:SHENGCHAN:Box116
+    100006: Administrator_20200715_1452:SHENGCHAN:Line037
+    100008: Administrator_20200715_1452:SHENGCHAN:Line043
+    100010: Administrator_20200715_1452:SHENGCHAN:Loft001
+    100012: Administrator_20200715_1452:SHENGCHAN:Loft003
+    100014: Administrator_20200715_1452:SHENGCHAN:Object1425
+    100016: Administrator_20200715_1452:SHENGCHAN:Object234
+    100018: Administrator_20200715_1452:SHENGCHAN:Object236
+    100020: B
+    100022: dd
+    100024: DIAOJIA
+    100026: F
+    100028: G
+    100030: GH
+    100032: GOUZI
+    100034: GOUZI 1
+    100036: GOUZI1
+    100038: GOUZI2
+    100040: GOUZI3
+    100042: GOUZI4
+    100044: GOUZI5
+    100046: GUANZI1
+    100048: HENG
+    100050: HENG 1
+    100052: HENG1
+    100054: HENG2
+    100056: HENG3
+    100058: HENG4
+    100060: HENG5
+    100062: HENG6
+    100064: JJK
+    100066: L
+    100068: L5
+    100070: LIJIA
+    100072: LIKU
+    100074: //RootNode
+    100076: Line037
+    100078: Line037 1
+    100080: Line037 2
+    100082: Line037 3
+    100084: Line037 4
+    100086: Line043
+    100088: Line043 1
+    100090: Line043 2
+    100092: Line043 3
+    100094: Line043 4
+    100096: polySurface931
+    100098: SHANG
+    100100: SHENGZI
+    100102: YI
+    100104: chen
+    100106: jiazi
+    100108: P
+    100110: P4
+    100112: P5
+    100114: P6
+    100116: P7
+    100118: P8
+    100120: PEIZHONG
+    100122: PEIZHONGKUAI
+    400000: A
+    400002: Administrator_20200715_1452:SHENGCHAN:Box115
+    400004: Administrator_20200715_1452:SHENGCHAN:Box116
+    400006: Administrator_20200715_1452:SHENGCHAN:Line037
+    400008: Administrator_20200715_1452:SHENGCHAN:Line043
+    400010: Administrator_20200715_1452:SHENGCHAN:Loft001
+    400012: Administrator_20200715_1452:SHENGCHAN:Loft003
+    400014: Administrator_20200715_1452:SHENGCHAN:Object1425
+    400016: Administrator_20200715_1452:SHENGCHAN:Object234
+    400018: Administrator_20200715_1452:SHENGCHAN:Object236
+    400020: B
+    400022: dd
+    400024: DIAOJIA
+    400026: F
+    400028: G
+    400030: GH
+    400032: GOUZI
+    400034: GOUZI 1
+    400036: GOUZI1
+    400038: GOUZI2
+    400040: GOUZI3
+    400042: GOUZI4
+    400044: GOUZI5
+    400046: GUANZI1
+    400048: HENG
+    400050: HENG 1
+    400052: HENG1
+    400054: HENG2
+    400056: HENG3
+    400058: HENG4
+    400060: HENG5
+    400062: HENG6
+    400064: JJK
+    400066: L
+    400068: L5
+    400070: LIJIA
+    400072: LIKU
+    400074: //RootNode
+    400076: Line037
+    400078: Line037 1
+    400080: Line037 2
+    400082: Line037 3
+    400084: Line037 4
+    400086: Line043
+    400088: Line043 1
+    400090: Line043 2
+    400092: Line043 3
+    400094: Line043 4
+    400096: polySurface931
+    400098: SHANG
+    400100: SHENGZI
+    400102: YI
+    400104: chen
+    400106: jiazi
+    400108: P
+    400110: P4
+    400112: P5
+    400114: P6
+    400116: P7
+    400118: P8
+    400120: PEIZHONG
+    400122: PEIZHONGKUAI
+    2100000: HEIPI
+    2100002: LANSE
+    2100004: HUANG
+    2100006: heitie
+    2100008: GUANZI
+    2100010: FADONGJI1
+    2100012: GANG
+    2100014: GUNLUN
+    2100016: JINSHU
+    2100018: LANSE02
+    2300000: Administrator_20200715_1452:SHENGCHAN:Box115
+    2300002: Administrator_20200715_1452:SHENGCHAN:Box116
+    2300004: Administrator_20200715_1452:SHENGCHAN:Line037
+    2300006: Administrator_20200715_1452:SHENGCHAN:Line043
+    2300008: Administrator_20200715_1452:SHENGCHAN:Loft001
+    2300010: Administrator_20200715_1452:SHENGCHAN:Loft003
+    2300012: Administrator_20200715_1452:SHENGCHAN:Object1425
+    2300014: Administrator_20200715_1452:SHENGCHAN:Object234
+    2300016: Administrator_20200715_1452:SHENGCHAN:Object236
+    2300018: dd
+    2300020: G
+    2300022: GH
+    2300024: GUANZI1
+    2300026: HENG 1
+    2300028: HENG1
+    2300030: HENG2
+    2300032: HENG3
+    2300034: HENG4
+    2300036: HENG5
+    2300038: HENG6
+    2300040: JJK
+    2300042: L
+    2300044: L5
+    2300046: LIJIA
+    2300048: Line037
+    2300050: Line037 1
+    2300052: Line037 2
+    2300054: Line037 3
+    2300056: Line037 4
+    2300058: Line043
+    2300060: Line043 1
+    2300062: Line043 2
+    2300064: Line043 3
+    2300066: Line043 4
+    2300068: polySurface931
+    2300070: YI
+    2300072: chen
+    2300074: jiazi
+    2300076: P
+    2300078: P4
+    2300080: P5
+    2300082: P6
+    2300084: P7
+    2300086: P8
+    3300000: Administrator_20200715_1452:SHENGCHAN:Box115
+    3300002: Administrator_20200715_1452:SHENGCHAN:Box116
+    3300004: Administrator_20200715_1452:SHENGCHAN:Line037
+    3300006: Administrator_20200715_1452:SHENGCHAN:Line043
+    3300008: Administrator_20200715_1452:SHENGCHAN:Loft001
+    3300010: Administrator_20200715_1452:SHENGCHAN:Loft003
+    3300012: Administrator_20200715_1452:SHENGCHAN:Object1425
+    3300014: Administrator_20200715_1452:SHENGCHAN:Object234
+    3300016: Administrator_20200715_1452:SHENGCHAN:Object236
+    3300018: dd
+    3300020: G
+    3300022: GH
+    3300024: GUANZI1
+    3300026: HENG 1
+    3300028: HENG1
+    3300030: HENG2
+    3300032: HENG3
+    3300034: HENG4
+    3300036: HENG5
+    3300038: HENG6
+    3300040: JJK
+    3300042: L
+    3300044: L5
+    3300046: LIJIA
+    3300048: Line037
+    3300050: Line037 1
+    3300052: Line037 2
+    3300054: Line037 3
+    3300056: Line037 4
+    3300058: Line043
+    3300060: Line043 1
+    3300062: Line043 2
+    3300064: Line043 3
+    3300066: Line043 4
+    3300068: polySurface931
+    3300070: YI
+    3300072: chen
+    3300074: jiazi
+    3300076: P
+    3300078: P4
+    3300080: P5
+    3300082: P6
+    3300084: P7
+    3300086: P8
+    4300000: Administrator_20200715_1452:SHENGCHAN:Loft003
+    4300002: Administrator_20200715_1452:SHENGCHAN:Loft001
+    4300004: Administrator_20200715_1452:SHENGCHAN:Box116
+    4300006: Administrator_20200715_1452:SHENGCHAN:Box115
+    4300008: GH
+    4300010: GUANZI1
+    4300012: Administrator_20200715_1452:SHENGCHAN:Line043
+    4300014: Administrator_20200715_1452:SHENGCHAN:Line037
+    4300016: Line043
+    4300018: Line037
+    4300020: Line043
+    4300022: Line037
+    4300024: Line043
+    4300026: Line037
+    4300028: Line043
+    4300030: Line037
+    4300032: Line043
+    4300034: Line037
+    4300036: G
+    4300038: JJK
+    4300040: Administrator_20200715_1452:SHENGCHAN:Object234
+    4300042: Administrator_20200715_1452:SHENGCHAN:Object236
+    4300044: Administrator_20200715_1452:SHENGCHAN:Object1425
+    4300046: polySurface931
+    4300048: HENG
+    4300050: HENG1
+    4300052: HENG2
+    4300054: HENG3
+    4300056: HENG4
+    4300058: HENG5
+    4300060: HENG6
+    4300062: YI
+    4300064: L
+    4300066: L5
+    4300068: dd
+    4300070: LIJIA
+    4300072: P
+    4300074: P4
+    4300076: P5
+    4300078: P6
+    4300080: P7
+    4300082: P8
+    4300084: chen
+    4300086: jiazi
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_Material
+    second: {fileID: 2100000, guid: 3717e5d0f864bcd46b33fca0f6b391ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FADONGJI1
+    second: {fileID: 2100000, guid: 91a20c6ce832b154bbdc4bc1f8c8dbee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GANG
+    second: {fileID: 2100000, guid: ff21eb69b71b4e544bf6e613d18bc4f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GUANZI
+    second: {fileID: 2100000, guid: e66f13fbc4c7c4b4890ecebb68dc38e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GUNLUN
+    second: {fileID: 2100000, guid: d30b550c0dc29974d89862edb707f5a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HEIPI
+    second: {fileID: 2100000, guid: b7f9a816bb6666848b36aedd5e33bcd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HUANG
+    second: {fileID: 2100000, guid: 3af7e734d4b2f7448b8f7c7bbf8e161b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JINSHU
+    second: {fileID: 2100000, guid: 48e2808d201c87342a27b2b5546c8981, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LANSE
+    second: {fileID: 2100000, guid: fa82657bb7ec8bf459f12e8d891a83ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LANSE02_AO
+    second: {fileID: 2100000, guid: d59c607fe3e51804fbe22fab68a4800c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: X_HEI
+    second: {fileID: 2100000, guid: 439630f90f258de4e8daab7be7258bac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: heitie
+    second: {fileID: 2100000, guid: 90c99d2040be77549bf7ca68f92ddea8, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

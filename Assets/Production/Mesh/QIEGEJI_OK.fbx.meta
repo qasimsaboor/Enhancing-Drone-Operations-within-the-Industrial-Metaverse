@@ -1,0 +1,509 @@
+fileFormatVersion: 2
+guid: e906b57bc197fbc49901a5c29a00ed38
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Administrator_20200715_1452:SHENGCHAN:Box519
+    100002: Administrator_20200715_1452:SHENGCHAN:Box520
+    100004: Administrator_20200715_1452:SHENGCHAN:Box521
+    100006: bolll
+    100008: cemen1
+    100010: cemen2
+    100012: d
+    100014: DADIAO
+    100016: DD
+    100018: dd
+    100020: dd 1
+    100022: dd1
+    100024: gg
+    100026: HUANGTUI
+    100028: kaiguan
+    100030: MM
+    100032: nn
+    100034: PENGZI_OK
+    100036: QIEGE_OK
+    100038: QIEGEJI
+    100040: //RootNode
+    100042: S
+    100044: shenti
+    100046: SS
+    100048: TUIDONG
+    100050: X
+    100052: xiaomen
+    100054: YIDONG
+    100056: ZHUAZI
+    100058: zuidapang
+    100060: A
+    100062: A20
+    100064: A21
+    100066: A22
+    100068: A23
+    100070: A24
+    100072: A25
+    100074: A26
+    100076: Box519
+    100078: Box520
+    100080: Box521
+    100082: D
+    100084: D4
+    100086: D5
+    100088: D6
+    100090: D7
+    100092: FF
+    100094: H
+    100096: HUA
+    100098: Q
+    100100: SSD
+    100102: SSS
+    100104: T
+    100106: Z
+    100108: ZHUAZI 1
+    100110: A 1
+    100112: A 2
+    100114: B
+    100116: B 1
+    100118: C
+    100120: C 1
+    100122: D 1
+    100124: D 2
+    100126: E
+    100128: E 1
+    100130: F
+    100132: F 1
+    100134: JIETOU
+    100136: JIETOU1
+    100138: polySurface94981
+    100140: polySurface94981 1
+    100142: polySurface94982
+    100144: polySurface94982 1
+    100146: polySurface94983
+    100148: polySurface94983 1
+    100150: polySurface94984
+    100152: polySurface94984 1
+    100154: QIE
+    100156: QIE1
+    100158: QIEGE
+    100160: ZHUAN
+    400000: Administrator_20200715_1452:SHENGCHAN:Box519
+    400002: Administrator_20200715_1452:SHENGCHAN:Box520
+    400004: Administrator_20200715_1452:SHENGCHAN:Box521
+    400006: bolll
+    400008: cemen1
+    400010: cemen2
+    400012: d
+    400014: DADIAO
+    400016: DD
+    400018: dd
+    400020: dd 1
+    400022: dd1
+    400024: gg
+    400026: HUANGTUI
+    400028: kaiguan
+    400030: MM
+    400032: nn
+    400034: PENGZI_OK
+    400036: QIEGE_OK
+    400038: QIEGEJI
+    400040: //RootNode
+    400042: S
+    400044: shenti
+    400046: SS
+    400048: TUIDONG
+    400050: X
+    400052: xiaomen
+    400054: YIDONG
+    400056: ZHUAZI
+    400058: zuidapang
+    400060: A
+    400062: A20
+    400064: A21
+    400066: A22
+    400068: A23
+    400070: A24
+    400072: A25
+    400074: A26
+    400076: Box519
+    400078: Box520
+    400080: Box521
+    400082: D
+    400084: D4
+    400086: D5
+    400088: D6
+    400090: D7
+    400092: FF
+    400094: H
+    400096: HUA
+    400098: Q
+    400100: SSD
+    400102: SSS
+    400104: T
+    400106: Z
+    400108: ZHUAZI 1
+    400110: A 1
+    400112: A 2
+    400114: B
+    400116: B 1
+    400118: C
+    400120: C 1
+    400122: D 1
+    400124: D 2
+    400126: E
+    400128: E 1
+    400130: F
+    400132: F 1
+    400134: JIETOU
+    400136: JIETOU1
+    400138: polySurface94981
+    400140: polySurface94981 1
+    400142: polySurface94982
+    400144: polySurface94982 1
+    400146: polySurface94983
+    400148: polySurface94983 1
+    400150: polySurface94984
+    400152: polySurface94984 1
+    400154: QIE
+    400156: QIE1
+    400158: QIEGE
+    400160: ZHUAN
+    2100000: Anboli
+    2100002: LANSE
+    2100004: TIEPI
+    2100006: HUANG
+    2100008: HEIPI
+    2100010: GUNLUN
+    2100012: TONG
+    2100014: GANG
+    2100016: HONG
+    2100018: ZHONGSE2
+    2100020: FADONGJI1
+    2300000: Administrator_20200715_1452:SHENGCHAN:Box519
+    2300002: Administrator_20200715_1452:SHENGCHAN:Box520
+    2300004: Administrator_20200715_1452:SHENGCHAN:Box521
+    2300006: bolll
+    2300008: d
+    2300010: DADIAO
+    2300012: DD
+    2300014: dd
+    2300016: dd 1
+    2300018: dd1
+    2300020: gg
+    2300022: kaiguan
+    2300024: MM
+    2300026: nn
+    2300028: S
+    2300030: shenti
+    2300032: SS
+    2300034: X
+    2300036: xiaomen
+    2300038: A
+    2300040: A20
+    2300042: A21
+    2300044: A22
+    2300046: A23
+    2300048: A24
+    2300050: A25
+    2300052: A26
+    2300054: Box519
+    2300056: Box520
+    2300058: Box521
+    2300060: D
+    2300062: D4
+    2300064: D5
+    2300066: D6
+    2300068: D7
+    2300070: H
+    2300072: Q
+    2300074: T
+    2300076: Z
+    2300078: A 1
+    2300080: A 2
+    2300082: B
+    2300084: B 1
+    2300086: C
+    2300088: C 1
+    2300090: D 1
+    2300092: D 2
+    2300094: E
+    2300096: E 1
+    2300098: F
+    2300100: F 1
+    2300102: polySurface94981
+    2300104: polySurface94981 1
+    2300106: polySurface94982
+    2300108: polySurface94982 1
+    2300110: polySurface94983
+    2300112: polySurface94983 1
+    2300114: polySurface94984
+    2300116: polySurface94984 1
+    2300118: ZHUAN
+    3300000: Administrator_20200715_1452:SHENGCHAN:Box519
+    3300002: Administrator_20200715_1452:SHENGCHAN:Box520
+    3300004: Administrator_20200715_1452:SHENGCHAN:Box521
+    3300006: bolll
+    3300008: d
+    3300010: DADIAO
+    3300012: DD
+    3300014: dd
+    3300016: dd 1
+    3300018: dd1
+    3300020: gg
+    3300022: kaiguan
+    3300024: MM
+    3300026: nn
+    3300028: S
+    3300030: shenti
+    3300032: SS
+    3300034: X
+    3300036: xiaomen
+    3300038: A
+    3300040: A20
+    3300042: A21
+    3300044: A22
+    3300046: A23
+    3300048: A24
+    3300050: A25
+    3300052: A26
+    3300054: Box519
+    3300056: Box520
+    3300058: Box521
+    3300060: D
+    3300062: D4
+    3300064: D5
+    3300066: D6
+    3300068: D7
+    3300070: H
+    3300072: Q
+    3300074: T
+    3300076: Z
+    3300078: A 1
+    3300080: A 2
+    3300082: B
+    3300084: B 1
+    3300086: C
+    3300088: C 1
+    3300090: D 1
+    3300092: D 2
+    3300094: E
+    3300096: E 1
+    3300098: F
+    3300100: F 1
+    3300102: polySurface94981
+    3300104: polySurface94981 1
+    3300106: polySurface94982
+    3300108: polySurface94982 1
+    3300110: polySurface94983
+    3300112: polySurface94983 1
+    3300114: polySurface94984
+    3300116: polySurface94984 1
+    3300118: ZHUAN
+    4300000: bolll
+    4300002: dd1
+    4300004: dd
+    4300006: d
+    4300008: dd
+    4300010: kaiguan
+    4300012: shenti
+    4300014: xiaomen
+    4300016: gg
+    4300018: nn
+    4300020: S
+    4300022: X
+    4300024: MM
+    4300026: DD
+    4300028: SS
+    4300030: Administrator_20200715_1452:SHENGCHAN:Box519
+    4300032: Administrator_20200715_1452:SHENGCHAN:Box520
+    4300034: Administrator_20200715_1452:SHENGCHAN:Box521
+    4300036: DADIAO
+    4300038: A
+    4300040: A20
+    4300042: A21
+    4300044: A22
+    4300046: A23
+    4300048: A24
+    4300050: A25
+    4300052: A26
+    4300054: D
+    4300056: D4
+    4300058: D5
+    4300060: D6
+    4300062: D7
+    4300064: T
+    4300066: Box521
+    4300068: Box519
+    4300070: Box520
+    4300072: Q
+    4300074: Z
+    4300076: H
+    4300078: polySurface94982
+    4300080: polySurface94981
+    4300082: polySurface94983
+    4300084: polySurface94984
+    4300086: polySurface94982
+    4300088: polySurface94981
+    4300090: polySurface94983
+    4300092: polySurface94984
+    4300094: B
+    4300096: C
+    4300098: E
+    4300100: F
+    4300102: A
+    4300104: B
+    4300106: C
+    4300108: D
+    4300110: E
+    4300112: F
+    4300114: ZHUAN
+    4300116: A
+    4300118: D
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Anboli
+    second: {fileID: 2100000, guid: d9b60317fbac21f47858691c27a431eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BASHOU
+    second: {fileID: 2100000, guid: 4bace98ac2f31ef4380ad27aabd69351, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FADONGJI1
+    second: {fileID: 2100000, guid: 91a20c6ce832b154bbdc4bc1f8c8dbee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GANG
+    second: {fileID: 2100000, guid: ff21eb69b71b4e544bf6e613d18bc4f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GUNLUN
+    second: {fileID: 2100000, guid: d30b550c0dc29974d89862edb707f5a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HONG
+    second: {fileID: 2100000, guid: 515da27bba4fcd04fa3257b5fa0a4262, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JINSHU
+    second: {fileID: 2100000, guid: 48e2808d201c87342a27b2b5546c8981, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LANSE
+    second: {fileID: 2100000, guid: fa82657bb7ec8bf459f12e8d891a83ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LAN_BIAN
+    second: {fileID: 2100000, guid: 6022308cecbdd134ba7b4bf7e84baf0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TIEPI
+    second: {fileID: 2100000, guid: b6536d323848c3648b06eaf7529fca51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TONG
+    second: {fileID: 2100000, guid: 417049f83283f624f93ece46c9319d3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ZHONGSE2
+    second: {fileID: 2100000, guid: 23154a512a2e27b44b69ef5c15a2ccd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: huangse
+    second: {fileID: 2100000, guid: d408744160d1a2c42891951200bda2f3, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
